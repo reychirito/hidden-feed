@@ -1,7 +1,7 @@
 
   # Hidden Feed
 
-  This is a code bundle for Hidden Feed. The original project is available at https://www.figma.com/design/SHKdZ37GmYf35lQ1QUoJaz/Hidden-Feed.
+  This is a code bundle for Hidden Feed.
 
   ## Running the code
 
